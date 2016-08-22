@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Harware Repair",
+    "description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+    "image": "http://www.clicktechsolutions.com/wp-content/uploads/2011/12/hardware-repair-cts1.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+    "image": "http://yfxtechnologies.com/image/cache/data/icon9-500x500.png"
+  }, 
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+    "image": "http://www.avg.com/content/dam/uis/ui-circle-pc-tune-up-200x200.png"
+  }
+]

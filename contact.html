@@ -1,0 +1,24 @@
+<h2>Contact Us </h2>
+
+<h3> Email</h3>
+Please email <a href="mailto:webmaster@example.com">Computer Solutions</a> for any queries.
+
+
+<h3>Locations</h3>
+<div ng-repeat="location in locations">
+  <address class="location">
+    <strong> {{location.name}} </strong>
+    <br>{{location.street_address}}
+    <br>{{location.city}} {{location.state}}, {{location.zip}}
+    <br>
+    <p>{{location.phone}}
+      <a href="#">
+        <span class="glyphicon glyphicon-earphone"></span>
+      </a>
+    </p>
+
+  </address>
+</div>
+
+<h3>Chat</h3>
+To chat <a href = #>click here</a>
